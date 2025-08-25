@@ -1,2 +1,4 @@
 My name is Tripura
+
 I have learned how to create my first repository.
+I have learned how to create file in github
